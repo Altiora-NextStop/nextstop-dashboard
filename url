@@ -1,1 +1,7 @@
 http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=tourist_db&table=users
+
+
+
+need to download the postman for getting all the data on localhost phpmyadmin 
+also need to download the xampp app for server connection 
+for runing the api, have to run "uvicorn main:app --reload" this command on vs terminal 
